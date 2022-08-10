@@ -4,11 +4,11 @@
 
 ##
 
-<div align="center">
+<div align="start">
   <a href="https://github.com/ErickNardes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ErickNardes&theme=dracula&include_all_commits=true&count_private=true"/>
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNardes&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickNardes&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
  ##
